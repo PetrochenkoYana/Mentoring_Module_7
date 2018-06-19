@@ -1,0 +1,9 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\bin\Debug\LinqToDB.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\bin\Debug\LinqToDB.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\bin\Debug\linq2db.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\bin\Debug\linq2db.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\bin\Debug\linq2db.xml
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\obj\Debug\LinqToDB.csprojResolveAssemblyReference.cache
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\obj\Debug\LinqToDB.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\obj\Debug\LinqToDB.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\LinqToDB\LinqToDB\bin\Debug\LinqToDB.dll.config
